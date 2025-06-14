@@ -1,0 +1,10 @@
+C:\Users\Gómez Parada\Downloads\Ejercicios_Formulario\Ejercicio 6\ejecicio 6\bin\Debug\ejecicio 6.exe.config
+C:\Users\Gómez Parada\Downloads\Ejercicios_Formulario\Ejercicio 6\ejecicio 6\bin\Debug\ejecicio 6.exe
+C:\Users\Gómez Parada\Downloads\Ejercicios_Formulario\Ejercicio 6\ejecicio 6\bin\Debug\ejecicio 6.pdb
+C:\Users\Gómez Parada\Downloads\Ejercicios_Formulario\Ejercicio 6\ejecicio 6\obj\Debug\ejecicio 6.csproj.AssemblyReference.cache
+C:\Users\Gómez Parada\Downloads\Ejercicios_Formulario\Ejercicio 6\ejecicio 6\obj\Debug\ejecicio_6.frmPerimetro.resources
+C:\Users\Gómez Parada\Downloads\Ejercicios_Formulario\Ejercicio 6\ejecicio 6\obj\Debug\ejecicio_6.Properties.Resources.resources
+C:\Users\Gómez Parada\Downloads\Ejercicios_Formulario\Ejercicio 6\ejecicio 6\obj\Debug\ejecicio 6.csproj.GenerateResource.cache
+C:\Users\Gómez Parada\Downloads\Ejercicios_Formulario\Ejercicio 6\ejecicio 6\obj\Debug\ejecicio 6.csproj.CoreCompileInputs.cache
+C:\Users\Gómez Parada\Downloads\Ejercicios_Formulario\Ejercicio 6\ejecicio 6\obj\Debug\ejecicio 6.exe
+C:\Users\Gómez Parada\Downloads\Ejercicios_Formulario\Ejercicio 6\ejecicio 6\obj\Debug\ejecicio 6.pdb
